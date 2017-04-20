@@ -1,0 +1,21 @@
+#ifndef __COMMON_DEFINE_H
+#define __COMMON_DEFINE_H
+
+#define RESERVED_NODE_ID     5
+#define MAX_NODE_NUM 20
+#define MAX_REDIS_NODE_NUM 1
+#define MAX_HTTP_CLIENT_NUM 1
+
+#define MAX_IP_LEN   16
+#define MAX_STR_LEN 255
+#define MAX_ROUTE_NUM 3
+#define HEARTBEAT_SECS 60
+
+#define FIELD_VALUE_LEN   128*1024
+#define MAX_AUTOGEN_PRIMARYKEY_TABLE  20
+#define AREA_BITS
+
+
+
+
+#endif
